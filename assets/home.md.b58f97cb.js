@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.1d3d2806.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"home"},"headers":[],"relativePath":"home.md"}'),s={name:"home.md"},r=a("p",null,"home",-1),n=[r];function c(_,m,d,p,i,l){return o(),t("div",null,n)}var u=e(s,[["render",c]]);export{f as __pageData,u as default};
